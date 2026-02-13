@@ -1,0 +1,82 @@
+SANA P
+DATA ANALYST
+sanaabdusamad40@gmail.com | 9037123501 | Calicut, Kerala | linkedin.com/in/sana-p-286780384
+Professional Summary
+Aspiring Data Analyst with hands-on experience in Python, SQL, Microsoft Excel, Power BI, and Tableau. Skilled in data cleaning,
+transformation, analysis, and visualization using NumPy, Pandas, Matplotlib, and Seaborn. Strong analytical and problem-solving abilities
+with a keen interest in converting raw data into meaningful insights that support data-driven decision-making and business growth.
+Work Experience
+Data Analytics intern, Techolas technology 06/2025 Present
+Collected, cleaned, and analyzed datasets using Python (NumPy, Pandas) and SQL to maintain data Calicut
+
+accuracy and consistency.
+Wrote and optimized SQL queries for data extraction, aggregation, and reporting from multiple sources.
+
+Designed interactive dashboards and reports using Power BI, Tableau, and Microsoft Excel to monitor KPIs
+
+and business metrics.
+Created data visualizations using Matplotlib and Seaborn to identify trends, patterns, and actionable
+
+insights.
+Automated data processing and reporting tasks using Python, reducing manual effort and improving
+
+efficiency.
+Worked closely with team members to convert business requirements into clear, data-driven insights and
+
+visual presentations.
+Skills
+Technical skill
+Programming-Python, SQL
+
+Visualization-Microsoft Excel, Power BI, Tableau
+
+Data visualization tools-NumPy, Pandas, Matplotlib
+
+Soft skill
+Team management
+
+Problem solving
+
+Critical thinking
+
+Education
+Bachelor of Arts in Sociology, University of Calicut 2022 2025
+Calicut, Kerala
+Projects
+Mobile Device Usage & User Behavior Analysis
+Built an interactive dashboard to analyze mobile device usage patterns across gender, age groups, operating systems, and device
+
+models.
+Used Excel Pivot Tables, slicers, and charts to monitor screen time, app usage, and data consumption.
+
+Identified user behavior trends and usage differences between Android and iOS platforms.
+
+Performed data cleaning and structuring to ensure accurate and meaningful insights.
+
+Tools: Microsoft Excel, Pivot Tables, Data Cleaning, Data Visualization.
+
+School Infrastructure & Student Performance Analysis
+Developed an interactive Power BI dashboard to study the impact of school infrastructure on student performance.
+
+Applied data modeling and DAX calculations to evaluate student count, average test scores, dropout rate, and attendance percentage.
+
+Analyzed performance across regions and location types (Urban, Rural, Semi-Urban).
+
+Highlighted the role of library facilities, lab quality, and internet availability in academic outcomes.
+
+Tools: Power BI, DAX, Data Modeling, KPI Analysis, Data Visualization.
+
+Public Transport Usage Analysis (India)
+Created an interactive Tableau dashboard to analyze public transport usage across major Indian cities.
+
+Visualized key metrics such as total users, average travel time, monthly pass users, and satisfaction score.
+
+Compared usage patterns by transport mode and city-wise performance.
+
+Enabled interactive filtering to explore on-time performance and user satisfaction trends.
+
+Tools: Tableau, Data Analysis, Data Visualization, Dashboards.
+
+Language
+English
+Malayalam

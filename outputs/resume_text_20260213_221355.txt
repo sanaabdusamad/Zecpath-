@@ -1,0 +1,48 @@
+FATHIMA FAHMIDA MV
+DATA ANALYST
+fahmidamv06@gmail.com | 9656719113 | Calicut
+Professional Summary
+Data-driven professional with hands-on experience in Python, SQL, Microsoft Excel, Power BI, and Tableau. Skilled in data extraction,
+cleaning, analysis, and visualization using NumPy, Pandas, Matplotlib, and Statistics. Experienced in transforming complex datasets into
+actionable insights through interactive dashboards and clear analytical reports to support data-driven decision-making.
+Work Experience
+Data Analytics Intern, Techolas Technology June 2025 Present
+Collected, cleaned, and analyzed datasets using Python, NumPy, Pandas, and statistical techniques to ensure Calicut
+data accuracy and consistency.
+Developed and optimized SQL queries for data extraction, aggregation, and reporting.
+Designed interactive dashboards and visualizations using Power BI, Tableau, and Matplotlib.
+Automated data processing and reporting workflows using Python and Pandas.
+Collaborated with team members to prepare clear reports and visualizations that effectively communicated
+business insights.
+Skills
+Technical Skills
+Programming - Python, SQL
+Visualization - Microsoft Excel, Power BI, Tableau, Matplotlib
+Data visualization tools - NumPy, Pandas, Matplotlib
+Soft Skills
+Problem Solving
+Time Management
+Team Collaboration
+Education
+Bachelor of Arts in Economics, University of Calicut 2022 2025
+Calicut, Kerala
+Projects
+Shopping Trends & Customer Behavior Analysis
+Built an interactive Excel dashboard to analyze customer purchase behavior across product categories, regions, age groups, gender, and
+purchase channels.
+Used Pivot Tables, slicers, and charts to track total sales, orders, customers, ratings, and discounts.
+Identified shopping trends, seasonal patterns, and customer preferences to support data-driven decision-making.
+Tools: Microsoft Excel, Pivot Tables, Data Cleaning, Data Visualization.
+Marketing & Sales Impact Analysis - Supplement Industry
+Developed an interactive Power BI dashboard to evaluate the impact of marketing spend on revenue, ROI, and customer growth.
+Applied data modeling and DAX calculations to analyze sales by region, product category, and sales channel.
+Analyzed conversion rates, customer satisfaction, and marketing effectiveness to support strategic insights.
+Tools: Power BI, DAX, Data Modeling, KPI Analysis, Data Visualization.
+Electric Vehicle Data Analysis
+Created an interactive Tableau dashboard to analyze electric vehicle adoption by model year, state, and manufacturer.
+Visualized key metrics including total vehicles, BEV vs PHEV distribution, average electric range, and CAFV eligibility.
+Enabled dynamic filtering to explore regional and model-level EV trends.
+Tools: Tableau, Data Analysis, Data Visualization, Dashboards.
+Language
+English
+Malayalam

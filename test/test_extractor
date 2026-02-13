@@ -1,0 +1,11 @@
+import os
+from parsers.extractor import extract_resume
+
+TEST_FILE = input("Enter resume file path (.pdf/.docx) for test: ").strip().strip('"')
+
+if not os.path.exists(TEST_FILE):
+    print("❌ File not found")
+else:
+    text = extract_resume(TEST_FILE)
+    print("✅ Extracted text length:", len(text))
+    print("✅ First 300 chars:\n", text[:300])
