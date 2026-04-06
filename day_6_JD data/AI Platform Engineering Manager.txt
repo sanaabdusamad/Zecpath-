@@ -1,0 +1,18 @@
+Role Overview
+The AI Platform Engineering Manager leads teams building and operating shared AI/ML platforms that enable scalable model development, deployment, and governance across the organization.
+Key Responsibilities
+• Own AI platform architecture (model serving, pipelines, feature stores)
+• Lead teams building reusable AI infrastructure and APIs
+• Ensure scalability, reliability, and performance of AI systems
+• Partner with data science, product, and MLOps teams
+• Drive standardization of AI tooling and workflows
+• Ensure security, compliance, and cost optimization
+Required Skills & Experience
+• Strong background in platform or backend engineering
+• Experience with ML platforms, cloud AI services, MLOps
+• People leadership and cross-team collaboration
+• Knowledge of distributed systems and APIs
+KPIs / Success Metrics
+• AI platform adoption
+• Model deployment velocity
+• Platform reliability and cost efficiency

@@ -1,0 +1,17 @@
+Role Overview
+The QA Engineering Manager leads quality assurance teams ensuring software quality, reliability, and compliance.
+Key Responsibilities
+• Define QA strategy and test approaches
+• Lead manual and automation testing teams
+• Ensure test coverage across functional and non-functional areas
+• Integrate QA into CI/CD pipelines
+• Drive quality metrics and reporting
+• Partner with engineering and product teams
+Required Skills & Experience
+• Strong QA and testing background
+• Test strategy and leadership experience
+• Automation and CI/CD knowledge
+KPIs / Success Metrics
+• Defect leakage rate
+• Test coverage
+• Release quality

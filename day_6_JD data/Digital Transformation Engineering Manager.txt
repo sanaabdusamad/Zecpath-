@@ -1,0 +1,17 @@
+Role Overview
+The Digital Transformation Engineering Manager leads modernization initiatives, transforming legacy systems into cloud-native, data-driven platforms.
+Key Responsibilities
+• Lead legacy modernization and cloud migration programs
+• Drive adoption of modern architectures and tooling
+• Manage cross-functional transformation teams
+• Align transformation efforts with business strategy
+• Measure ROI and transformation outcomes
+• Manage technical risk and change management
+Required Skills & Experience
+• Experience in large-scale digital transformation
+• Cloud, microservices, and modernization expertise
+• Strong stakeholder and program leadership skills
+KPIs / Success Metrics
+• Modernization progress
+• System performance improvements
+• Business value realization

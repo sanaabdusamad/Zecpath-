@@ -1,0 +1,17 @@
+Role Overview
+The EdTech Engineering Manager leads teams building digital learning platforms and education technology solutions.
+Key Responsibilities
+• Manage development of learning platforms and tools
+• Ensure scalability for large user bases
+• Support content delivery and analytics
+• Collaborate with educators and product teams
+• Drive accessibility and usability
+• Ensure data privacy for learners
+Required Skills & Experience
+• Experience with SaaS or platform engineering
+• User-centric product development mindset
+• Knowledge of data privacy regulations
+KPIs / Success Metrics
+• Platform engagement
+• System reliability
+• Learning outcome support

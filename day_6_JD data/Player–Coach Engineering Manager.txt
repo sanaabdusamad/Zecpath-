@@ -1,0 +1,14 @@
+Role Overview
+A Player–Coach Engineering Manager combines deep technical contribution with active mentorship and leadership, especially in lean teams.
+Key Responsibilities
+• Act as lead contributor on critical features
+• Coach engineers through pairing, reviews, and design sessions
+• Set technical standards and development practices
+• Guide junior and mid-level engineers
+• Own delivery timelines and quality outcomes
+• Support hiring and onboarding
+Required Skills & Experience
+• 7–12+ years engineering experience
+• Strong mentoring and coaching mindset
+• Hands-on expertise in architecture and coding
+• Experience leading small, high-impact teams

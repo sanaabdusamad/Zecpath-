@@ -1,0 +1,16 @@
+Role Overview
+Leads teams responsible for enterprise and cloud networking infrastructure.
+Key Responsibilities
+• Design and manage network architecture
+• Ensure network security and availability
+• Oversee WAN, LAN, VPN, and firewalls
+• Manage capacity planning and upgrades
+• Respond to network incidents
+Required Skills & Experience
+• Network protocols and security
+• Cloud networking expertise
+• Vendor management skills
+KPIs
+• Network uptime
+• Latency and throughput
+• Security incident reduction

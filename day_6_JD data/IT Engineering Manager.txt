@@ -1,0 +1,16 @@
+Role Overview
+The IT Engineering Manager leads IT systems, infrastructure, and enterprise technology operations, ensuring business continuity and compliance.
+Key Responsibilities
+• Manage IT engineering and support teams
+• Oversee enterprise infrastructure and systems
+• Ensure security, compliance, and availability
+• Plan IT upgrades and capacity
+• Align IT initiatives with business goals
+Required Skills & Qualifications
+• Experience in IT infrastructure and operations
+• Knowledge of ITSM, ITIL, and security standards
+• Vendor and budget management skills
+KPIs / Success Metrics
+• System availability
+• Incident response time
+• IT cost optimization

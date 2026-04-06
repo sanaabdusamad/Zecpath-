@@ -1,0 +1,16 @@
+Role Overview
+A Technical Engineering Manager combines deep technical expertise with people leadership, often remaining hands-on in architecture and critical code paths.
+Key Responsibilities
+• Act as technical authority for the team
+• Review system architecture and complex code changes
+• Mentor engineers on advanced technical topics
+• Resolve high-impact technical issues
+• Align technical decisions with business goals
+Required Skills & Qualifications
+• Strong system design and architecture experience
+• Ability to code and review production-level systems
+• Experience leading technically complex projects
+KPIs / Success Metrics
+• System scalability and performance
+• Technical debt reduction
+• Architecture consistency

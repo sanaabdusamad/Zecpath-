@@ -1,0 +1,18 @@
+Role Overview
+A Technical Delivery Consultant ensures that complex technical programs are delivered successfully across multiple teams and stakeholders.
+Key Responsibilities
+• Own end-to-end technical delivery for client engagements
+• Align engineering execution with business timelines
+• Manage dependencies across teams and vendors
+• Identify delivery risks and mitigation strategies
+• Ensure quality, performance, and security standards
+• Report delivery status to senior leadership
+Required Skills & Experience
+• Strong engineering background with delivery ownership
+• Experience managing large-scale or multi-team programs
+• Excellent planning, estimation, and reporting skills
+• Strong stakeholder management abilities
+Focus Areas
+• Large platform implementations
+• Cloud migrations
+• Digital transformation programs

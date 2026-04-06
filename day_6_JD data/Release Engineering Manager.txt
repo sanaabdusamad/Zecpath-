@@ -1,0 +1,17 @@
+Role Overview
+The Release Engineering Manager leads teams responsible for build, release, and deployment processes, ensuring reliable and repeatable releases.
+Key Responsibilities
+• Own release planning and coordination
+• Automate build and release pipelines
+• Ensure release quality and stability
+• Manage release risks and rollback strategies
+• Coordinate across engineering, QA, and operations
+• Drive continuous improvement of release processes
+Required Skills & Experience
+• CI/CD and automation expertise
+• Release management experience
+• Strong cross-team coordination skills
+KPIs / Success Metrics
+• Release success rate
+• Deployment frequency
+• Change failure rate

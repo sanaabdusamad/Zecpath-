@@ -1,0 +1,16 @@
+Role Overview
+Leads DevOps teams enabling continuous integration, delivery, and deployment.
+Key Responsibilities
+• Own CI/CD pipelines and release automation
+• Improve deployment speed and reliability
+• Enable infrastructure as code
+• Collaborate with engineering and SRE teams
+• Drive DevOps best practices
+Required Skills & Experience
+• CI/CD tools and automation frameworks
+• Cloud and container platforms
+• Strong collaboration mindset
+KPIs
+• Deployment frequency
+• Change failure rate
+• Mean time to recovery (MTTR)

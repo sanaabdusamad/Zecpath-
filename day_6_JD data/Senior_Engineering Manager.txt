@@ -1,0 +1,22 @@
+Role Overview
+The Senior Engineering Manager (SEM) leads multiple engineering teams or a large product/platform area, owning delivery excellence, people leadership, and technical alignment across teams.
+This role sits between execution and strategy and is critical for scaling engineering organizations.
+Key Responsibilities
+• Lead and manage multiple engineering teams or Engineering Managers
+• Own delivery of complex, cross-team initiatives
+• Translate business and product goals into engineering execution plans
+• Ensure high engineering standards, code quality, and architectural alignment
+• Drive hiring, performance management, coaching, and succession planning
+• Identify risks, dependencies, and bottlenecks early and resolve them
+• Partner with Product, Design, QA, and DevOps leadership
+Required Skills & Experience
+• 10–14+ years of engineering experience
+• 3–6+ years in engineering leadership roles
+• Strong system design and architectural understanding
+• Experience managing managers and senior engineers
+• Excellent stakeholder communication skills
+Success Metrics (KPIs)
+• Cross-team delivery predictability
+• Engineering quality and system stability
+• Team engagement and retention
+• Reduction of operational and technical risks

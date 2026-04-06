@@ -1,0 +1,16 @@
+Role Overview
+Leads security engineering teams protecting applications, infrastructure, and data.
+Key Responsibilities
+• Own security architecture and controls
+• Drive threat modeling and vulnerability management
+• Integrate security into SDLC
+• Lead incident response and remediation
+• Collaborate with compliance teams
+Required Skills & Experience
+• Application and infrastructure security
+• Secure SDLC practices
+• Security tooling expertise
+KPIs
+• Security incident reduction
+• Vulnerability remediation time
+• Compliance adherence

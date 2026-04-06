@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building Generative AI solutions such as chatbots, copilots, and AI-driven automation.
+Key Responsibilities
+• Design and deploy GenAI applications
+• Manage LLM integrations and prompt systems
+• Ensure security, privacy, and responsible AI use
+• Optimize cost and performance
+• Partner with product and research teams
+Required Skills & Experience
+• LLM platforms and APIs
+• AI system integration
+• Responsible AI practices
+KPIs
+• GenAI feature adoption
+• Cost efficiency
+• Output quality

@@ -1,0 +1,17 @@
+Role Overview
+The Program Engineering Manager leads large, cross-team engineering programs, aligning multiple teams toward shared objectives.
+Key Responsibilities
+• Own planning and execution of multi-team programs
+• Manage scope, dependencies, and risks
+• Align technical execution with business priorities
+• Coordinate across engineering, product, and leadership
+• Track program milestones and outcomes
+• Drive program governance and communication
+Required Skills & Experience
+• Experience managing large technical programs
+• Strong coordination and leadership skills
+• Understanding of system dependencies
+KPIs / Success Metrics
+• Program delivery success
+• Dependency resolution effectiveness
+• Business outcome achievement

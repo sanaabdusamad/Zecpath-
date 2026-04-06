@@ -1,0 +1,20 @@
+Role Overview
+A Consulting Engineering Manager works with client organizations to design, improve, and optimize engineering systems, processes, and teams.
+Key Responsibilities
+• Assess current engineering maturity and gaps
+• Define target architecture and delivery models
+• Lead transformation programs (Agile, DevOps, Cloud, AI)
+• Guide engineering teams during execution
+• Provide executive-level reporting and insights
+• Ensure compliance with industry and security standards
+Required Skills & Experience
+• 10+ years in engineering leadership
+• Strong consulting or enterprise delivery background
+• Deep understanding of SDLC, DevOps, and cloud platforms
+• Excellent presentation and client-facing skills
+Industries Served
+• Enterprise IT
+• FinTech
+• Healthcare
+• Telecom
+• Government & regulated sectors

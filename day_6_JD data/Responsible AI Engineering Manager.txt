@@ -1,0 +1,17 @@
+Role Overview
+The Responsible AI Engineering Manager ensures that AI systems are ethical, fair, explainable, and compliant, embedding responsible AI principles into engineering practices.
+Key Responsibilities
+• Implement fairness, bias detection, and explainability frameworks
+• Lead responsible AI engineering standards and reviews
+• Ensure compliance with AI regulations and internal policies
+• Collaborate with legal, compliance, and data teams
+• Drive transparency and auditability of AI systems
+• Educate teams on ethical AI best practices
+Required Skills & Experience
+• Strong understanding of AI ethics and governance
+• Experience with ML systems and compliance frameworks
+• Stakeholder management and policy implementation skills
+KPIs / Success Metrics
+• Compliance audit outcomes
+• Reduction in AI risk incidents
+• Explainability and transparency metrics

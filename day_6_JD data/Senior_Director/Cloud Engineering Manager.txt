@@ -1,0 +1,16 @@
+Role Overview
+Oversees cloud infrastructure and engineering teams managing public, private, or hybrid cloud environments.
+Key Responsibilities
+• Own cloud architecture and operations
+• Drive cost optimization and scalability
+• Ensure security and compliance
+• Automate infrastructure provisioning
+• Partner with DevOps and SRE teams
+Required Skills & Experience
+• AWS / Azure / GCP expertise
+• Infrastructure as Code (Terraform, CloudFormation)
+• Cloud security and governance knowledge
+KPIs
+• Cloud cost efficiency
+• Infrastructure uptime
+• Automation coverage

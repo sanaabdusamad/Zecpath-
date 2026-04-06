@@ -1,0 +1,16 @@
+Role Overview
+The Principal Engineering Manager combines deep technical authority with organizational leadership, influencing architecture and engineering culture across teams.
+Key Responsibilities
+• Define and govern technical standards and architecture
+• Mentor senior engineers and engineering managers
+• Drive long-term technical vision and roadmap
+• Lead critical, high-impact engineering initiatives
+• Reduce technical debt and improve engineering maturity
+Required Skills & Qualifications
+• Expert-level system architecture experience
+• Strong influence without direct authority
+• Proven record of solving large-scale technical challenges
+KPIs / Success Metrics
+• Architectural consistency
+• Platform scalability
+• Reduction of technical risk

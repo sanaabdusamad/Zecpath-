@@ -1,0 +1,17 @@
+Role Overview
+The Engineering Excellence Manager drives engineering best practices, standards, and continuous improvement across the organization.
+Key Responsibilities
+• Define engineering standards, guidelines, and best practices
+• Improve code quality, testing, and documentation
+• Drive adoption of modern engineering practices
+• Measure and improve engineering maturity
+• Mentor teams on technical excellence
+• Partner with leadership on improvement initiatives
+Required Skills & Experience
+• Strong engineering and quality background
+• Experience driving process and technical improvements
+• Metrics-driven improvement mindset
+KPIs / Success Metrics
+• Engineering quality metrics
+• Reduction in defects and rework
+• Adoption of best practices

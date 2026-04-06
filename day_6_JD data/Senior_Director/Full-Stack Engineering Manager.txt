@@ -1,0 +1,16 @@
+Role Overview
+Oversees teams working across frontend, backend, and integration layers, ensuring end-to-end delivery.
+Key Responsibilities
+• Lead full-stack engineering teams
+• Ensure system consistency across layers
+• Guide architectural decisions
+• Balance speed, quality, and maintainability
+• Support cross-functional execution
+Required Skills & Experience
+• Full-stack development expertise
+• Strong system design knowledge
+• Agile delivery leadership
+KPIs
+• End-to-end delivery success
+• Cross-layer defect reduction
+• Time-to-market

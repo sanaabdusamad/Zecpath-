@@ -1,0 +1,16 @@
+Role Overview
+Leads AppSec teams focused on securing software applications.
+Key Responsibilities
+• Implement secure coding standards
+• Manage SAST, DAST, and penetration testing
+• Train engineering teams on security best practices
+• Review architecture for security risks
+• Support compliance audits
+Required Skills & Experience
+• Application security testing
+• Secure coding practices
+• DevSecOps knowledge
+KPIs
+• Application vulnerability rates
+• Secure SDLC adoption
+• Audit success rate

@@ -1,0 +1,18 @@
+Role Overview
+The Engineering Architecture Manager leads teams responsible for defining, governing, and evolving system architecture across products and platforms while managing senior engineers and architects.
+Key Responsibilities
+• Define and enforce architectural standards and principles
+• Lead architecture reviews and technical design governance
+• Guide teams on scalability, security, and performance
+• Balance innovation with long-term maintainability
+• Mentor architects and senior engineers
+• Align architecture decisions with business strategy
+Required Skills & Experience
+• Strong system and solution architecture background
+• Experience with distributed and cloud-native systems
+• Proven people leadership experience
+• Excellent technical communication skills
+KPIs / Success Metrics
+• Architectural consistency and compliance
+• Scalability and reliability outcomes
+• Reduction of architectural debt

@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building and operating distributed microservices architectures.
+Key Responsibilities
+• Design and govern microservices architecture
+• Ensure service observability and resilience
+• Drive service ownership and autonomy
+• Reduce coupling and technical debt
+• Coordinate cross-service dependencies
+Required Skills & Experience
+• Distributed systems and event-driven design
+• Containerization and orchestration expertise
+• Observability tools and practices
+KPIs
+• Service reliability
+• Incident frequency
+• Scalability metrics

@@ -1,0 +1,17 @@
+Role Overview
+The Telecom Engineering Manager leads engineering teams building telecommunications platforms and network systems.
+Key Responsibilities
+• Manage development of telecom applications and platforms
+• Ensure high availability and performance of network systems
+• Oversee OSS/BSS systems and integrations
+• Drive automation and system scalability
+• Collaborate with network operations teams
+• Ensure compliance with telecom standards
+Required Skills & Experience
+• Telecom systems and networking knowledge
+• Experience with large-scale distributed systems
+• Strong operational leadership
+KPIs / Success Metrics
+• Network availability
+• Incident resolution time
+• Platform scalability

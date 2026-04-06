@@ -1,0 +1,16 @@
+Role Overview
+Leads infrastructure teams responsible for compute, storage, networking, and environments.
+Key Responsibilities
+• Own infrastructure design and capacity planning
+• Ensure high availability and performance
+• Automate infrastructure operations
+• Manage vendors and infrastructure budgets
+• Support disaster recovery planning
+Required Skills & Experience
+• Infrastructure architecture and operations
+• Virtualization and cloud infrastructure
+• Strong operational leadership
+KPIs
+• Infrastructure uptime
+• Cost efficiency
+• Incident resolution time

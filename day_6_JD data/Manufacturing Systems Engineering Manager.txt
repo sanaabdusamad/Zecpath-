@@ -1,0 +1,17 @@
+Role Overview
+The Manufacturing Systems Engineering Manager leads engineering teams building industrial, factory, and manufacturing execution systems (MES).
+Key Responsibilities
+• Manage development of manufacturing systems and platforms
+• Integrate IT systems with industrial equipment and IoT
+• Ensure system reliability and real-time data processing
+• Support automation and digital manufacturing initiatives
+• Collaborate with operations and plant teams
+• Ensure safety and compliance
+Required Skills & Experience
+• Experience with manufacturing or industrial systems
+• Knowledge of automation, IoT, or MES platforms
+• Strong system integration skills
+KPIs / Success Metrics
+• System uptime and reliability
+• Production efficiency improvement
+• Integration success

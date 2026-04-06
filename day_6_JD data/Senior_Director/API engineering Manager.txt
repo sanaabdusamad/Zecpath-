@@ -1,0 +1,16 @@
+Role Overview
+Leads teams responsible for designing, developing, and governing APIs used by internal and external consumers.
+Key Responsibilities
+• Own API design standards and governance
+• Ensure security, versioning, and scalability
+• Drive API documentation and developer adoption
+• Collaborate with platform and integration teams
+• Monitor API usage and performance
+Required Skills & Experience
+• REST, GraphQL, event-driven architectures
+• API security and lifecycle management
+• Developer experience focus
+KPIs
+• API reliability and adoption
+• Consumer satisfaction
+• Security compliance

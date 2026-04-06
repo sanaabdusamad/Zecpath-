@@ -1,0 +1,14 @@
+Role Overview
+A Scale-Up Engineering Manager focuses on growing teams, systems, and processes as the company scales from startup to mid-size or enterprise.
+Key Responsibilities
+• Scale engineering teams and delivery capacity
+• Redesign systems for performance, reliability, and growth
+• Introduce structured Agile, DevOps, and QA processes
+• Manage hiring, performance, and team structure
+• Reduce technical debt and improve platform stability
+• Support organizational and cultural scaling
+Required Skills & Experience
+• 8–12+ years engineering experience
+• Experience scaling systems and teams
+• Strong cloud, distributed systems knowledge
+• Proven people management and hiring experience

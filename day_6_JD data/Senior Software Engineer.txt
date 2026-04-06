@@ -1,0 +1,19 @@
+Role Overview
+A Senior Software Engineer is a highly experienced individual contributor responsible for designing, building, and maintaining complex software systems while mentoring others.
+Key Responsibilities
+• Design and implement scalable, high-quality software solutions
+• Own end-to-end delivery of complex features or services
+• Perform code reviews and enforce engineering best practices
+• Debug production issues and improve system reliability
+• Collaborate with product, QA, and DevOps teams
+• Mentor junior and mid-level engineers
+• Contribute to architectural discussions
+Required Skills & Experience
+• 5–8+ years of professional software development experience
+• Strong expertise in one or more programming languages
+• Experience with system design, APIs, databases, and cloud
+• Strong problem-solving and debugging skills
+Success Metrics
+• Code quality and system stability
+• Feature delivery reliability
+• Mentorship impact

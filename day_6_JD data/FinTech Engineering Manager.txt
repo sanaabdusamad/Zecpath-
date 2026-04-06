@@ -1,0 +1,17 @@
+Role Overview
+The FinTech Engineering Manager leads engineering teams building secure, scalable financial technology platforms such as payments, lending, wallets, and trading systems.
+Key Responsibilities
+• Lead development of financial systems and services
+• Ensure compliance with financial regulations and standards
+• Drive security, reliability, and performance of transaction systems
+• Partner with product, risk, and compliance teams
+• Oversee integrations with banks, payment gateways, and third parties
+• Manage high-availability and low-latency systems
+Required Skills & Experience
+• Strong backend or platform engineering background
+• Experience with financial systems and payments
+• Knowledge of security, compliance, and audit requirements
+KPIs / Success Metrics
+• Transaction success and latency
+• Security and compliance adherence
+• System availability

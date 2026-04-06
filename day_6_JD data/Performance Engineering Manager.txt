@@ -1,0 +1,17 @@
+Role Overview
+The Performance Engineering Manager ensures systems meet performance, scalability, and reliability requirements.
+Key Responsibilities
+• Define performance testing strategy
+• Conduct load, stress, and scalability testing
+• Identify bottlenecks and optimization opportunities
+• Collaborate with engineering teams on tuning
+• Monitor performance in production
+• Establish performance benchmarks
+Required Skills & Experience
+• Performance testing tools and techniques
+• System architecture understanding
+• Monitoring and observability expertise
+KPIs / Success Metrics
+• System response times
+• Throughput and scalability metrics
+• Performance defect reduction

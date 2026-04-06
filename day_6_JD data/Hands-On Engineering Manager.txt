@@ -1,0 +1,14 @@
+Role Overview
+A Hands-On Engineering Manager actively contributes code while also managing people, delivery, and technical direction.
+Key Responsibilities
+• Write, review, and maintain production-grade code
+• Lead sprint planning, estimations, and delivery
+• Provide technical guidance and unblock engineers
+• Manage team performance and career growth
+• Ensure code quality, testing, and CI/CD practices
+• Balance management duties with development work
+Required Skills & Experience
+• 6–10+ years engineering experience
+• Strong coding expertise in relevant tech stack
+• Prior Tech Lead or hybrid leadership experience
+• Ability to context-switch effectively

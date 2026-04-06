@@ -1,0 +1,17 @@
+Role Overview
+The Agile Engineering Manager ensures teams adopt and continuously improve agile practices while maintaining engineering excellence.
+Key Responsibilities
+• Coach teams on agile principles and practices
+• Improve team velocity, predictability, and collaboration
+• Remove delivery blockers and process inefficiencies
+• Partner with product and engineering leaders
+• Scale agile practices across teams
+• Measure and improve agile maturity
+Required Skills & Experience
+• Deep agile and lean methodology knowledge
+• Engineering leadership background
+• Strong coaching and facilitation skills
+KPIs / Success Metrics
+• Agile maturity improvement
+• Delivery consistency
+• Team engagement

@@ -1,0 +1,17 @@
+Role Overview
+The Engineering Automation Manager drives automation across the software development lifecycle, improving speed, quality, and reliability.
+Key Responsibilities
+• Lead automation of CI/CD, testing, and infrastructure
+• Reduce manual engineering effort through tooling
+• Implement self-service engineering platforms
+• Collaborate with DevOps and platform teams
+• Measure efficiency gains and quality improvements
+• Promote automation-first engineering culture
+Required Skills & Experience
+• Strong DevOps, CI/CD, and automation background
+• Experience with infrastructure as code and testing automation
+• Leadership experience in tooling teams
+KPIs / Success Metrics
+• Automation coverage
+• Deployment frequency
+• Reduction in manual errors

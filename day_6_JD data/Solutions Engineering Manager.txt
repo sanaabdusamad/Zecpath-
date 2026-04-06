@@ -1,0 +1,17 @@
+Role Overview
+The Solutions Engineering Manager leads teams that design and deliver technical solutions for customers or internal stakeholders, bridging business needs and engineering execution.
+Key Responsibilities
+• Translate business and customer requirements into technical solutions
+• Lead solution design and technical proposals
+• Manage solution engineers and architects
+• Partner with sales, product, and delivery teams
+• Ensure feasibility, scalability, and security of solutions
+• Support pre-sales and technical enablement
+Required Skills & Experience
+• Strong solution architecture and design experience
+• Customer-facing and stakeholder management skills
+• Broad technical knowledge across systems and platforms
+KPIs / Success Metrics
+• Solution success and adoption
+• Customer satisfaction
+• Delivery feasibility and quality

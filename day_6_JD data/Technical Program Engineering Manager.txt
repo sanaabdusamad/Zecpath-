@@ -1,0 +1,17 @@
+Role Overview
+The Technical Program Engineering Manager leads complex, technically driven programs, ensuring alignment across architecture, engineering, and delivery teams.
+Key Responsibilities
+• Own planning and execution of large technical programs
+• Manage technical dependencies and risks
+• Coordinate across engineering, architecture, and product
+• Track program milestones and outcomes
+• Communicate progress to leadership
+• Ensure technical alignment across teams
+Required Skills & Experience
+• Strong technical background with program leadership experience
+• Ability to manage cross-team dependencies
+• Excellent organizational and communication skills
+KPIs / Success Metrics
+• Program delivery success
+• Dependency resolution effectiveness
+• Technical alignment quality

@@ -1,0 +1,16 @@
+Role Overview
+Leads IAM teams managing authentication, authorization, and identity governance.
+Key Responsibilities
+• Own IAM architecture and lifecycle
+• Implement SSO, MFA, and access controls
+• Ensure least-privilege access
+• Support compliance and audits
+• Integrate IAM across systems
+Required Skills & Experience
+• IAM platforms and protocols
+• Identity governance expertise
+• Security and compliance knowledge
+KPIs
+• Access risk reduction
+• Audit success
+• Identity lifecycle efficiency

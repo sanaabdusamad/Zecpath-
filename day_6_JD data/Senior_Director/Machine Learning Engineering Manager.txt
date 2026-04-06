@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building AI-powered applications and systems.
+Key Responsibilities
+• Own AI solution delivery and architecture
+• Manage model integration and deployment
+• Ensure ethical and responsible AI practices
+• Collaborate with product and research teams
+• Scale AI systems in production
+Required Skills & Experience
+• AI/ML system engineering experience
+• Model lifecycle and deployment knowledge
+• Strong system integration skills
+KPIs
+• AI feature adoption
+• Model performance in production
+• System reliability

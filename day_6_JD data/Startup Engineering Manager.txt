@@ -1,0 +1,16 @@
+Role Overview
+A Startup Engineering Manager leads small, fast-moving engineering teams in an early-stage or growth-stage startup, balancing delivery, people leadership, and technical execution.
+Key Responsibilities
+• Lead day-to-day engineering execution across product features
+• Translate business goals into technical roadmaps
+• Manage sprint planning, prioritization, and delivery
+• Collaborate closely with founders, product, and design
+• Establish engineering processes, standards, and culture
+• Mentor engineers and support hiring decisions
+• Ensure scalability, performance, and reliability
+Required Skills & Experience
+• 6–10+ years in software engineering
+• Prior startup or fast-growth experience
+• Strong full-stack or platform engineering background
+• Agile / Lean delivery experience
+• Excellent problem-solving and ownership mindset

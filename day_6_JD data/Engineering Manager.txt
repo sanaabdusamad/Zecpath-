@@ -1,0 +1,18 @@
+Role Overview
+The Engineering Manager (EM) leads one or more engineering teams, balancing people management, technical oversight, and delivery excellence. The EM ensures high-quality software delivery while fostering team growth and collaboration.
+Key Responsibilities
+• Lead, mentor, and manage software engineers and tech leads
+• Own team delivery, sprint planning, and execution
+• Collaborate with Product, Design, QA, and DevOps teams
+• Ensure engineering best practices, code quality, and system reliability
+• Drive performance management, hiring, and team development
+• Identify and mitigate technical and delivery risks
+Required Skills & Qualifications
+• Strong background in software engineering
+• Experience with agile / scrum methodologies
+• Leadership and stakeholder communication skills
+• System design and architecture knowledge
+KPIs / Success Metrics
+• Delivery predictability
+• Code quality and system stability
+• Team engagement and retention

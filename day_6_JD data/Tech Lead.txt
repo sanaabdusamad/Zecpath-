@@ -1,0 +1,19 @@
+Role Overview
+A Tech Lead is the technical decision-maker for a team, guiding architecture, standards, and execution while remaining hands-on.
+Key Responsibilities
+• Define technical design and architecture for team initiatives
+• Lead technical planning, estimations, and execution
+• Review code and ensure engineering excellence
+• Mentor engineers and raise team technical maturity
+• Act as technical interface to product and leadership
+• Resolve complex technical challenges
+• Ensure scalability, performance, and security
+Required Skills & Experience
+• 7–10+ years of engineering experience
+• Strong system design and architectural expertise
+• Leadership without direct people management (in many orgs)
+• Excellent communication and decision-making skills
+Success Metrics
+• Technical quality and architecture health
+• Delivery predictability
+• Team technical growth

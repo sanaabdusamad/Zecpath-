@@ -1,0 +1,16 @@
+Role Overview
+A Founding Engineering Manager is one of the first engineering leaders in a startup, responsible for building the initial product, team, and engineering culture from scratch.
+Key Responsibilities
+• Build and deliver the MVP and early platform
+• Define system architecture and technical direction
+• Hire, onboard, and mentor early engineers
+• Set coding standards, DevOps practices, and tooling
+• Work directly with founders on strategy and trade-offs
+• Scale systems from prototype to production
+• Own technical debt and long-term maintainability
+Required Skills & Experience
+• 8–12+ years engineering experience
+• Proven early-stage startup background
+• Strong system design and cloud architecture skills
+• Ability to work with ambiguity and rapid change
+• Leadership mindset with hands-on execution

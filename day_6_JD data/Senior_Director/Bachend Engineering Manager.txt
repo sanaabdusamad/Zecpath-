@@ -1,0 +1,16 @@
+Role Overview
+Leads backend engineering teams building scalable, secure, and high-performance services that power applications and platforms.
+Key Responsibilities
+• Manage backend engineers and tech leads
+• Own service architecture, APIs, and data flows
+• Ensure scalability, performance, and reliability
+• Drive code quality, testing, and security practices
+• Collaborate with frontend, product, and DevOps teams
+Required Skills & Experience
+• Strong backend engineering background (Java, Python, Node, Go, etc.)
+• Distributed systems and database expertise
+• Experience with cloud-native architectures
+KPIs
+• Service uptime and latency
+• API performance
+• Defect and incident rates

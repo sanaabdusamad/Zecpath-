@@ -1,0 +1,16 @@
+Role Overview
+Manages cloud operations teams responsible for day-to-day cloud reliability and performance.
+Key Responsibilities
+• Ensure operational stability of cloud environments
+• Manage incident and escalation processes
+• Optimize cloud costs and resource usage
+• Enforce security and compliance
+• Coordinate with cloud engineering teams
+Required Skills & Experience
+• Cloud operations and ITSM experience
+• Strong incident management skills
+• Cost governance knowledge
+KPIs
+• Operational uptime
+• Incident resolution speed
+• Cloud spend optimization

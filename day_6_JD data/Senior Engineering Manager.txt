@@ -1,0 +1,16 @@
+Role Overview
+The Senior Engineering Manager leads multiple engineering teams or a large domain, owning delivery, technical direction, and people leadership at scale.
+Key Responsibilities
+• Manage multiple engineering managers or large teams
+• Drive execution of complex, cross-team initiatives
+• Align engineering delivery with product and business goals
+• Own hiring strategy, performance management, and succession planning
+• Ensure engineering best practices and scalable architecture
+Required Skills & Qualifications
+• Strong experience in engineering leadership
+• System design and architectural decision-making
+• Excellent stakeholder and executive communication
+KPIs / Success Metrics
+• Cross-team delivery success
+• Engineering quality and scalability
+• Leadership bench strength

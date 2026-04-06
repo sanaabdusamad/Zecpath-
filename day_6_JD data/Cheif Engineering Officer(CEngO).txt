@@ -1,0 +1,16 @@
+Role Overview
+The Chief Engineering Officer provides enterprise-wide engineering leadership, focusing on execution excellence and technical governance.
+Key Responsibilities
+• Own engineering execution across all business units
+• Establish engineering governance and standards
+• Oversee delivery, quality, and operational excellence
+• Collaborate with CTO and business leaders
+• Drive engineering transformation initiatives
+Required Skills & Qualifications
+• Executive-level engineering leadership experience
+• Strong operational and governance expertise
+• Enterprise systems and delivery knowledge
+KPIs / Success Metrics
+• Engineering effectiveness
+• Delivery predictability
+• Compliance and quality metrics

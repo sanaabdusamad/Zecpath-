@@ -1,0 +1,16 @@
+Role Overview
+The Platform Engineering Manager leads teams building internal platforms, shared services, and developer tooling.
+Key Responsibilities
+• Own internal platform architecture and roadmap
+• Improve developer experience and productivity
+• Ensure scalability, reliability, and security
+• Define APIs, standards, and shared services
+• Collaborate with infrastructure and SRE teams
+Required Skills & Qualifications
+• Experience with cloud platforms and microservices
+• Strong DevOps and automation knowledge
+• System scalability expertise
+KPIs / Success Metrics
+• Platform reliability and performance
+• Developer productivity improvements
+• Adoption of platform services

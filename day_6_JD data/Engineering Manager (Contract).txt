@@ -1,0 +1,21 @@
+Role Overview
+A Contract Engineering Manager is engaged for a fixed duration to lead engineering teams, stabilize delivery, and execute specific technical or transformation initiatives.
+Key Responsibilities
+• Lead one or more engineering teams during the contract period
+• Ensure timely delivery of committed milestones
+• Provide hands-on technical guidance and architectural reviews
+• Improve team processes, quality standards, and delivery velocity
+• Collaborate with product, business, and vendor teams
+• Manage technical risks and dependencies
+• Mentor internal engineers and hand over knowledge before exit
+Required Skills & Experience
+• 8–12+ years in software/engineering roles
+• Proven experience as Engineering Manager or Tech Lead
+• Strong system design and code review expertise
+• Agile/Scrum delivery experience
+• Excellent stakeholder communication skills
+Typical Use Cases
+• Scale-up phases
+• Leadership gaps
+• Program rescue or turnaround
+• Platform modernization initiatives

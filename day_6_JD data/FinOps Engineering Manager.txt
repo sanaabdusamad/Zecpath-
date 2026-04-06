@@ -1,0 +1,17 @@
+Role Overview
+The FinOps Engineering Manager leads engineering efforts focused on cloud cost optimization, financial governance, and efficiency.
+Key Responsibilities
+• Own cloud cost optimization and budgeting initiatives
+• Implement cost monitoring, alerting, and governance tools
+• Partner with finance, procurement, and engineering teams
+• Drive efficient resource usage and architecture decisions
+• Educate teams on cost-aware engineering practices
+• Forecast and manage cloud spend
+Required Skills & Experience
+• Strong cloud infrastructure and cost management experience
+• FinOps frameworks and financial modeling knowledge
+• Cross-functional collaboration skills
+KPIs / Success Metrics
+• Cloud cost savings
+• Budget adherence
+• Cost efficiency per workload

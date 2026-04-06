@@ -1,0 +1,22 @@
+Role Overview
+The Director of Engineering owns engineering strategy, execution, and organizational effectiveness across multiple domains, products, or platforms.
+This role focuses on scaling teams, processes, and systems while aligning engineering output with business outcomes.
+Key Responsibilities
+• Define and execute engineering strategy aligned with business goals
+• Lead multiple Senior Engineering Managers and Engineering Managers
+• Own capacity planning, budgeting, and resource allocation
+• Establish engineering processes, metrics, and governance
+• Drive operational excellence and delivery consistency
+• Partner with executive leadership on roadmap planning
+• Build a strong leadership pipeline within engineering
+Required Skills & Experience
+• 12–18+ years of engineering experience
+• Proven experience managing large engineering organizations
+• Strong business, budgeting, and planning skills
+• Experience working closely with executive stakeholders
+• Ability to lead organizational change
+Success Metrics (KPIs)
+• Engineering throughput and cost efficiency
+• Delivery success across portfolios
+• Leadership bench strength
+• Platform and product scalability

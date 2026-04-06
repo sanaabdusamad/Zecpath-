@@ -1,0 +1,16 @@
+Role Overview
+Leads teams delivering high-quality user interfaces and experiences across web and mobile platforms.
+Key Responsibilities
+• Own frontend architecture and UI standards
+• Ensure performance, accessibility, and responsiveness
+• Collaborate with UX, product, and backend teams
+• Drive component reuse and design system adoption
+• Mentor frontend engineers
+Required Skills & Experience
+• Strong experience with modern frontend frameworks
+• UI performance and accessibility expertise
+• Experience managing design–engineering collaboration
+KPIs
+• UI performance metrics
+• User experience quality
+• Frontend delivery velocity

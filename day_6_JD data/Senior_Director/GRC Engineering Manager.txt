@@ -1,0 +1,16 @@
+Role Overview
+Leads Governance, Risk, and Compliance engineering initiatives ensuring regulatory and security compliance.
+Key Responsibilities
+• Implement compliance frameworks (ISO, SOC, GDPR, etc.)
+• Manage risk assessments and controls
+• Coordinate audits and remediation
+• Align engineering practices with regulations
+• Report compliance status to leadership
+Required Skills & Experience
+• GRC frameworks and standards
+• Risk management expertise
+• Cross-functional leadership skills
+KPIs
+• Audit success rate
+• Risk reduction
+• Compliance maturity

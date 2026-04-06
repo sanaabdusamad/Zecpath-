@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building data pipelines, platforms, and analytics infrastructure.
+Key Responsibilities
+• Own data architecture and pipelines
+• Ensure data quality, reliability, and governance
+• Support analytics and data science teams
+• Scale data platforms and processing systems
+• Drive data engineering best practices
+Required Skills & Experience
+• Data platforms and ETL pipelines
+• Cloud data services
+• Strong data governance knowledge
+KPIs
+• Data pipeline reliability
+• Data availability
+• Platform scalability

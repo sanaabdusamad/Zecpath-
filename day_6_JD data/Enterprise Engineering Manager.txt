@@ -1,0 +1,17 @@
+Role Overview
+The Enterprise Engineering Manager leads engineering efforts across enterprise-wide platforms and systems, ensuring alignment with organizational standards and long-term strategy.
+Key Responsibilities
+• Own enterprise engineering standards and frameworks
+• Manage large, cross-functional engineering teams
+• Drive modernization of enterprise systems
+• Ensure compliance, security, and governance
+• Partner with business and IT leadership
+• Oversee enterprise platform scalability
+Required Skills & Experience
+• Enterprise architecture and engineering experience
+• Strong governance and compliance knowledge
+• Experience managing large engineering programs
+KPIs / Success Metrics
+• Enterprise system modernization progress
+• Platform stability and scalability
+• Compliance adherence

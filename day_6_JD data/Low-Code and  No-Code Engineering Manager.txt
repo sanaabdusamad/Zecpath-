@@ -1,0 +1,17 @@
+Role Overview
+The Low-Code / No-Code Engineering Manager leads platforms that enable rapid application development by business and technical users with minimal hand-coded effort.
+Key Responsibilities
+• Own low-code/no-code platform strategy and governance
+• Ensure scalability, security, and maintainability of solutions
+• Manage platform engineering and enablement teams
+• Define development standards and guardrails
+• Partner with business units and IT governance
+• Drive adoption and developer enablement
+Required Skills & Experience
+• Experience with low-code platforms and enterprise systems
+• Strong governance and platform management skills
+• Ability to balance speed with quality and security
+KPIs / Success Metrics
+• Platform adoption rates
+• Time-to-delivery improvement
+• Reduction in shadow IT

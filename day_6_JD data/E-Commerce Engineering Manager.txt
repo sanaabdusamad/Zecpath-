@@ -1,0 +1,17 @@
+Role Overview
+The E-Commerce Engineering Manager leads teams building online commerce platforms, ensuring scalability, performance, and conversion optimization.
+Key Responsibilities
+• Lead development of e-commerce applications and services
+• Ensure performance during high-traffic events
+• Integrate payment, catalog, and logistics systems
+• Drive A/B testing and optimization
+• Partner with product, marketing, and operations teams
+• Ensure security and compliance for transactions
+Required Skills & Experience
+• Experience with e-commerce platforms
+• High-traffic system scalability expertise
+• Payment and order management knowledge
+KPIs / Success Metrics
+• Conversion rate and checkout success
+• Platform uptime
+• Page load performance

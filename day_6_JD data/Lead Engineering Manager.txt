@@ -1,0 +1,14 @@
+Role Overview
+A Lead Engineering Manager oversees multiple teams or senior engineers, acting as a bridge between execution, architecture, and leadership.
+Key Responsibilities
+• Lead multiple squads or a large engineering pod
+• Guide technical decisions and architectural alignment
+• Mentor Engineering Managers and Tech Leads
+• Coordinate cross-team dependencies and releases
+• Ensure engineering best practices and consistency
+• Partner with product leadership on roadmap planning
+Required Skills & Experience
+• 8–14+ years engineering experience
+• Prior Engineering Manager or Tech Lead experience
+• Strong leadership and cross-team coordination skills
+• Excellent system design and review capabilities

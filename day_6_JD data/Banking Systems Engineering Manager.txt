@@ -1,0 +1,17 @@
+Role Overview
+The Banking Systems Engineering Manager leads teams building and maintaining core banking, digital banking, and transaction processing systems.
+Key Responsibilities
+• Manage development of core and digital banking platforms
+• Ensure system reliability, security, and compliance
+• Oversee integration with payment, AML, and fraud systems
+• Support modernization of legacy banking systems
+• Partner with risk, compliance, and business teams
+• Lead incident response for critical banking systems
+Required Skills & Experience
+• Experience with banking or financial systems
+• Knowledge of regulatory and audit requirements
+• Strong enterprise system experience
+KPIs / Success Metrics
+• System stability and uptime
+• Regulatory audit success
+• Transaction accuracy

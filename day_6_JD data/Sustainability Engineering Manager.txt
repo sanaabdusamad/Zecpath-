@@ -1,0 +1,17 @@
+Role Overview
+The Sustainability Engineering Manager leads initiatives to reduce the environmental impact of technology systems while aligning engineering practices with ESG goals.
+Key Responsibilities
+• Design energy-efficient systems and architectures
+• Measure and reduce carbon footprint of IT operations
+• Drive sustainable cloud and infrastructure practices
+• Partner with ESG, compliance, and leadership teams
+• Promote green software engineering principles
+• Report sustainability metrics and outcomes
+Required Skills & Experience
+• Experience in infrastructure, cloud, or systems engineering
+• Knowledge of sustainability metrics and ESG frameworks
+• Leadership experience in cross-functional initiatives
+KPIs / Success Metrics
+• Carbon footprint reduction
+• Energy efficiency improvements
+• Sustainability compliance metrics

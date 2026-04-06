@@ -1,0 +1,16 @@
+Role Overview
+The Systems Architecture Manager oversees complex, integrated systems architectures, often spanning software, infrastructure, and external integrations.
+Key Responsibilities
+• Design and govern end-to-end system architectures
+• Ensure interoperability across systems and platforms
+• Lead architecture for large-scale, mission-critical systems
+• Manage system architects and senior engineers
+• Drive performance, availability, and security improvements
+Required Skills & Experience
+• Experience with large-scale system integration
+• Strong understanding of infrastructure and networking
+• Architectural modeling and documentation skills
+KPIs / Success Metrics
+• System reliability and performance
+• Integration success rate
+• Architecture scalability

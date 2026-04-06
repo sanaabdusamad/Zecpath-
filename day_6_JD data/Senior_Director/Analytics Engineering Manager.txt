@@ -1,0 +1,16 @@
+Role Overview
+Leads teams transforming raw data into analytics-ready datasets and metrics.
+Key Responsibilities
+• Own analytics data models and transformations
+• Ensure data accuracy and consistency
+• Support BI and reporting needs
+• Collaborate with business stakeholders
+• Establish analytics standards
+Required Skills & Experience
+• SQL, data modeling, analytics tools
+• Data quality and governance expertise
+• Business intelligence experience
+KPIs
+• Data accuracy
+• Analytics adoption
+• Time to insights

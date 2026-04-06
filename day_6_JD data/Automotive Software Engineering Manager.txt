@@ -1,0 +1,17 @@
+Role Overview
+The Automotive Software Engineering Manager leads teams developing software for vehicles, infotainment, ADAS, and connected car platforms.
+Key Responsibilities
+• Lead development of automotive software systems
+• Ensure compliance with automotive safety standards (ISO 26262)
+• Oversee embedded and real-time software development
+• Manage integration with hardware and vehicle systems
+• Partner with product, hardware, and safety teams
+• Drive quality, testing, and validation
+Required Skills & Experience
+• Experience with embedded or automotive software
+• Knowledge of safety-critical systems
+• Strong system integration experience
+KPIs / Success Metrics
+• Software quality and safety compliance
+• Release stability
+• Integration success

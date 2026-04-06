@@ -1,0 +1,19 @@
+Role Overview
+The Software Engineering Manager oversees software development teams responsible for building scalable, secure, and maintainable applications.
+Key Responsibilities
+• Manage end-to-end software development lifecycle
+• Guide technical design and architecture decisions
+• Ensure adherence to coding standards and SDLC practices
+• Coordinate releases and deployments
+• Support engineers’ career growth and performance
+Required Skills & Qualifications
+• Proficiency in backend, frontend, or full-stack development
+• Experience with CI/CD pipelines
+• Strong debugging and problem-solving skills
+KPIs / Success Metrics
+• Release quality and velocity
+• Defect rate and post-release stability
+• Team skill advancement
+
+
+

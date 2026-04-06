@@ -1,0 +1,17 @@
+Role Overview
+The Gaming Platform Engineering Manager leads teams building high-performance, scalable gaming platforms.
+Key Responsibilities
+• Manage backend and platform services for games
+• Ensure low-latency and high-availability systems
+• Support live game operations and scaling events
+• Drive performance optimization and monitoring
+• Collaborate with game developers and product teams
+• Ensure secure and fair gameplay systems
+Required Skills & Experience
+• Experience with real-time or high-traffic systems
+• Knowledge of game backend architectures
+• Strong performance engineering skills
+KPIs / Success Metrics
+• Platform uptime during peak load
+• Latency and performance
+• Player satisfaction

@@ -1,0 +1,16 @@
+Role Overview
+Manages teams responsible for operational support of systems and applications.
+Key Responsibilities
+• Oversee system monitoring and support
+• Manage incident, problem, and change processes
+• Ensure system availability and performance
+• Drive operational improvements and automation
+• Coordinate with engineering teams
+Required Skills & Experience
+• IT operations and ITIL practices
+• System administration knowledge
+• Strong operational leadership
+KPIs
+• System availability
+• Incident response times
+• Operational efficiency

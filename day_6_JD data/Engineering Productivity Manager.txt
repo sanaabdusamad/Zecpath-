@@ -1,0 +1,17 @@
+Role Overview
+The Engineering Productivity Manager focuses on improving developer efficiency, tooling, and workflows to maximize engineering output.
+Key Responsibilities
+• Identify productivity bottlenecks in engineering workflows
+• Own developer tooling, CI/CD, and automation initiatives
+• Improve onboarding and development environments
+• Measure and optimize developer experience (DX)
+• Partner with platform, DevOps, and engineering teams
+• Drive adoption of productivity tools and practices
+Required Skills & Experience
+• Strong background in developer tooling and platforms
+• DevOps and automation expertise
+• Experience measuring and improving DX
+KPIs / Success Metrics
+• Developer productivity metrics
+• Build and deployment times
+• Tool adoption and satisfaction

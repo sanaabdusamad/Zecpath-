@@ -1,0 +1,16 @@
+Role Overview
+The Systems Engineering Manager oversees complex, integrated systems, often across hardware, software, and infrastructure.
+Key Responsibilities
+• Manage system design and integration
+• Ensure system reliability, performance, and security
+• Coordinate cross-team dependencies
+• Oversee incident management and root-cause analysis
+• Drive continuous system improvements
+Required Skills & Qualifications
+• Experience with large-scale systems
+• Knowledge of networking, OS, and distributed systems
+• Strong troubleshooting skills
+KPIs / Success Metrics
+• System uptime and availability
+• Incident frequency and resolution time
+• Performance benchmarks

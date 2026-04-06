@@ -1,0 +1,16 @@
+Role Overview
+Leads SRE teams ensuring system reliability, scalability, and performance.
+Key Responsibilities
+• Define SLOs, SLIs, and error budgets
+• Lead incident management and postmortems
+• Improve observability and automation
+• Balance reliability with feature velocity
+• Partner with engineering and operations teams
+Required Skills & Experience
+• Distributed systems reliability expertise
+• Incident response leadership
+• Automation and monitoring tools
+KPIs
+• System uptime
+• MTTR
+• SLO compliance

@@ -1,0 +1,18 @@
+Role Overview
+The Product Engineering Manager bridges product vision and engineering execution, ensuring customer-focused, scalable, and high-quality product delivery.
+Key Responsibilities
+• Partner closely with Product Managers and UX teams
+• Translate product requirements into technical solutions
+• Prioritize features based on customer and business impact
+• Ensure engineering quality, scalability, and maintainability
+• Balance speed of delivery with long-term technical health
+• Lead and mentor product-aligned engineering teams
+Required Skills & Experience
+• Strong software engineering background
+• Product-centric mindset
+• Experience with customer-facing systems
+• Agile product development experience
+KPIs / Success Metrics
+• Feature adoption and customer satisfaction
+• Time-to-market
+• Product quality and stability

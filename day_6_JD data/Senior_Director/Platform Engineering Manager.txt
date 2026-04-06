@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building internal platforms, shared services, and developer tooling to enable product teams.
+Key Responsibilities
+• Define platform architecture and roadmap
+• Improve developer productivity and experience
+• Ensure scalability, reliability, and security
+• Standardize CI/CD, infrastructure, and tooling
+• Drive platform adoption
+Required Skills & Experience
+• Cloud, DevOps, and microservices expertise
+• Experience building internal platforms
+• Strong system architecture skills
+KPIs
+• Platform adoption
+• Developer productivity metrics
+• Platform reliability

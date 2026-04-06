@@ -1,0 +1,16 @@
+Role Overview
+Leads teams building automation, tooling, and infrastructure for ML operations.
+Key Responsibilities
+• Automate model training, testing, and deployment
+• Implement monitoring and governance for ML systems
+• Ensure reproducibility and compliance
+• Improve ML delivery speed and reliability
+• Partner with AI and platform teams
+Required Skills & Experience
+• MLOps tools and practices
+• CI/CD for ML systems
+• Cloud and automation expertise
+KPIs
+• Model deployment time
+• ML pipeline reliability
+• Compliance adherence

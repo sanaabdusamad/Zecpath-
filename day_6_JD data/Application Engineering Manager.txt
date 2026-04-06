@@ -1,0 +1,16 @@
+Role Overview
+The Application Engineering Manager leads teams responsible for enterprise or customer-facing applications.
+Key Responsibilities
+• Oversee application development and maintenance
+• Ensure performance, security, and scalability
+• Manage application lifecycle and upgrades
+• Coordinate with business stakeholders
+• Drive application modernization initiatives
+Required Skills & Qualifications
+• Experience with enterprise application stacks
+• Knowledge of application security and performance tuning
+• Stakeholder communication skills
+KPIs / Success Metrics
+• Application stability
+• User satisfaction
+• Release success rate

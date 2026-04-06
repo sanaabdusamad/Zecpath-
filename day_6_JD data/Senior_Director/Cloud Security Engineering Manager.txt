@@ -1,0 +1,16 @@
+Role Overview
+Leads teams securing cloud infrastructure and services.
+Key Responsibilities
+• Define cloud security architecture
+• Implement IAM, network security, and encryption
+• Monitor cloud threats and misconfigurations
+• Enforce compliance and governance
+• Partner with cloud engineering teams
+Required Skills & Experience
+• Cloud security services
+• IAM and network security
+• Compliance frameworks
+KPIs
+• Cloud security posture
+• Incident prevention
+• Compliance metrics

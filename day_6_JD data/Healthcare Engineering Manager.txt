@@ -1,0 +1,17 @@
+Role Overview
+The Healthcare Engineering Manager leads teams developing healthcare software systems, ensuring patient data security, compliance, and system reliability.
+Key Responsibilities
+• Manage development of healthcare applications and platforms
+• Ensure compliance with healthcare regulations (HIPAA, HL7, etc.)
+• Oversee integration with clinical and medical systems
+• Drive data privacy and security best practices
+• Collaborate with clinicians, product, and compliance teams
+• Ensure high availability of critical healthcare systems
+Required Skills & Experience
+• Experience in healthcare or regulated environments
+• Strong data privacy and security knowledge
+• Experience with system integrations
+KPIs / Success Metrics
+• Regulatory compliance
+• System uptime
+• Data security incidents

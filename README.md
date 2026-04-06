@@ -75,3 +75,11 @@ zecpath-ai-system/
 ### Step 1: Activate virtual environment
 ```bash
 venv\Scripts\activate
+
+Day 6 – Job Description Parsing System
+
+Objective
+
+The objective of this task is to build a system that converts job descriptions into structured, AI-readable job requirement data.
+
+This involves extracting key information such as role name, required skills, experience, and education from unstructured JD data and converting it into a clean and usable format (JSON) for further processing.

@@ -1,0 +1,17 @@
+Role Overview
+The Autonomous Systems Engineering Manager leads engineering teams developing self-governing, decision-making systems such as robotics, autonomous agents, and AI-driven control systems.
+Key Responsibilities
+• Lead design and development of autonomous software systems
+• Manage safety, reliability, and fail-safe mechanisms
+• Coordinate simulation, testing, and real-world deployment
+• Collaborate with AI, hardware, and control systems teams
+• Ensure compliance with safety and regulatory standards
+• Guide system scalability and autonomy maturity
+Required Skills & Experience
+• Experience in autonomous systems, robotics, or AI agents
+• Strong systems engineering and control theory understanding
+• Leadership experience in complex, safety-critical systems
+KPIs / Success Metrics
+• Autonomy performance and stability
+• Safety incident reduction
+• System decision accuracy

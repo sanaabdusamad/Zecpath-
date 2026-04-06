@@ -1,0 +1,16 @@
+Role Overview
+The Development Manager focuses on planning, execution, and delivery of development projects while managing development teams.
+Key Responsibilities
+• Plan development roadmaps and timelines
+• Allocate resources across projects
+• Monitor progress, risks, and dependencies
+• Ensure timely delivery of features
+• Coordinate with cross-functional teams
+Required Skills & Qualifications
+• Strong project and people management skills
+• Experience with agile and waterfall models
+• Knowledge of SDLC tools (Jira, Azure DevOps, etc.)
+KPIs / Success Metrics
+• On-time delivery
+• Resource utilization
+• Stakeholder satisfaction

@@ -1,0 +1,17 @@
+Role Overview
+The Delivery Engineering Manager owns end-to-end delivery execution, ensuring predictable, on-time, and high-quality software releases.
+Key Responsibilities
+• Plan and track engineering delivery commitments
+• Manage dependencies, risks, and timelines
+• Improve delivery predictability and velocity
+• Coordinate across product, engineering, QA, and DevOps
+• Establish delivery metrics and reporting
+• Drive continuous delivery improvements
+Required Skills & Experience
+• Strong project and delivery management skills
+• Agile / Scrum / Kanban expertise
+• Stakeholder and risk management experience
+KPIs / Success Metrics
+• On-time delivery rate
+• Sprint predictability
+• Stakeholder satisfaction

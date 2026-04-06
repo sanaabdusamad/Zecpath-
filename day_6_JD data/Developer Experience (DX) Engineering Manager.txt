@@ -1,0 +1,17 @@
+Role Overview
+The DX Engineering Manager focuses on improving the daily experience of developers, enabling faster, happier, and more productive engineering teams.
+Key Responsibilities
+• Own developer tooling, workflows, and platforms
+• Improve onboarding, build systems, and documentation
+• Measure and optimize developer productivity metrics
+• Partner with platform, DevOps, and engineering teams
+• Drive adoption of internal tools and standards
+• Advocate for developer needs at leadership level
+Required Skills & Experience
+• Experience in platform or tooling engineering
+• Strong empathy for developer workflows
+• Data-driven productivity improvement mindset
+KPIs / Success Metrics
+• Developer satisfaction scores
+• Build and deployment times
+• Onboarding efficiency

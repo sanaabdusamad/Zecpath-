@@ -1,0 +1,17 @@
+Role Overview
+The Scrum Engineering Manager combines scrum leadership with engineering management, ensuring disciplined execution and team health.
+Key Responsibilities
+• Facilitate scrum ceremonies (planning, reviews, retrospectives)
+• Support backlog refinement and sprint planning
+• Remove impediments and protect team focus
+• Ensure adherence to scrum best practices
+• Mentor engineers and scrum leads
+• Coordinate with Product Owners
+Required Skills & Experience
+• Scrum framework expertise
+• Engineering or technical background
+• Strong facilitation and communication skills
+KPIs / Success Metrics
+• Sprint goal achievement
+• Team velocity stability
+• Scrum process adherence

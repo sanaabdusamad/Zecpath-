@@ -1,0 +1,17 @@
+Role Overview
+The Test Automation Manager leads teams building automated testing frameworks to improve quality and delivery speed.
+Key Responsibilities
+• Define automation strategy and roadmap
+• Build and maintain automation frameworks
+• Integrate automation into CI/CD pipelines
+• Improve test execution speed and reliability
+• Mentor automation engineers
+• Track automation ROI
+Required Skills & Experience
+• Automation tools and frameworks expertise
+• Programming and scripting skills
+• CI/CD integration experience
+KPIs / Success Metrics
+• Automation coverage
+• Test execution time
+• Defect detection effectiveness
